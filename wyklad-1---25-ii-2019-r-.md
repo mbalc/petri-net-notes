@@ -10,7 +10,7 @@
 
 #####Def.:
 
-> Stan sieci (konfiguracja) to funkcja $M. P \rightarrow {0, 1}$ (przypisanie pinków miejscom) 
+> Stan sieci (konfiguracja) to funkcja $$M. P \rightarrow {0, 1}$$ (przypisanie pionków miejscom) 
 
 #####Ozn.  
 
